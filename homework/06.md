@@ -1,0 +1,21 @@
+# TAMU GIS Programming: Homework 06
+>
+>**Topic:** Map generation toolbox 
+# **Outcomes:**
+1. Learn what Python modules are and learn the deffierence between modules and packages.
+2. Learn some advanced python functions.
+3. Learn how to use arcpy to creaete maps including UniqueValue maps & Choropleth maps.
+4. Learn how to produce and present appropriate toolbox messages to a user.
+5. Learn how to convert to and from common geographic data formats
+
+# **Task:**
+> - Create a script that can generate either a unique value or graduated color map
+> - Turn said script into a toolbox that can be accessed from the Geoprocessing pane in ArcGIS Pro
+> - Utilize a progressor inside the toolbox to inform the user how far along the script is in generating the map
+
+# **To Hand In:**
+1. Link to your Github page that contains the Python code 75pts
+2. Screenshot of Map 25pts
+>
+# Map generation toolbox
+For this homework assignment, you will need to create a toolbox whose job is to create either a GraduatedColorsRenderer or UniqueValueRenderer based map. Once you have a working toolbox, you will need to add in a progressor who's label tracks what portion of the code is executing. This means the progressor should increment every so often and the label text should change with each progression.

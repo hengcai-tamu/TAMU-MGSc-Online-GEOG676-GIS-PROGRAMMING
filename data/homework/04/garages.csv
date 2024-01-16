@@ -1,0 +1,7 @@
+OID,CIT_CODE,FAC_CODE,LotName,AggieMap,Name,LotType,ORIG_FID,X,Y
+-1,20200,SSG,Southside Garage,1,SSG,Garage,1,-96.33362,30.61373
+-1,20400,CCG,Central Campus Garage,1,CCG,Garage Visitor,2,-96.33777,30.61650
+-1,20100,NSG,Northside Garage,1,NSG,Garage Visitor,3,-96.34341,30.61924
+-1,20500,WCG,West Campus Garage,1,WCG,Garage Visitor,4,-96.34426,30.60849
+-1,20300,UCG,University Center Garage,1,UCG,Garage Visitor,5,-96.33865,30.61205
+-1,20600,CAG,Cain Garage,1,CAIN,Garage Visitor,6,-96.34355,30.61149

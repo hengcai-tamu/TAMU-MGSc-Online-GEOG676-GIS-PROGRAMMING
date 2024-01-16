@@ -1,0 +1,5 @@
+Projection    GEOGRAPHIC
+Spheroid      CLARKE1866
+Units         DD
+Zunits        NO
+Parameters    
